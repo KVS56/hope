@@ -2,21 +2,21 @@
 title:               hope
 tagline:             'the sun always rises'
 description:         ''
-url:                 kvs56.github.io
+url:                 https://kvs56.github.io/hope/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              krishnavaibhavsharma
-  url:               https://kvs56.github.io
-  email:             zeparselmouth@gmail.com
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
 # Gems
 plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             0.1.1
-google_analytics_id: UA-146052-15
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
