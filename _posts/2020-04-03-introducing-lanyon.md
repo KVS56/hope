@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: woven from webs
 ---
 
 this will reflect on the main page hopefully
@@ -34,4 +34,5 @@ men will sing till the end of days. we'll all sing, we'll all go on
 <img width="540" height="393" alt="image" src="https://github.com/user-attachments/assets/9f3e322a-f527-4bda-83e7-0adb51063629" />
 
 keep going
+
 
