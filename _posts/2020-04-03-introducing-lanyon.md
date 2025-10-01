@@ -3,36 +3,32 @@ layout: post
 title: Introducing Lanyon
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+this will reflect on the main page hopefully
 
-### Built on Poole
+<img width="540" height="80" alt="image" src="https://github.com/user-attachments/assets/c3281f01-cfe5-48ad-8960-f9edbe556b7d" />
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+it will get better
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+<img width="540" height="236" alt="image" src="https://github.com/user-attachments/assets/59bd2f20-e215-41c2-a5da-f09c7d6fe635" />
 
-### Lanyon features
+only one shot
 
-In addition to the features of Poole, Lanyon adds the following:
+<img width="540" height="147" alt="image" src="https://github.com/user-attachments/assets/f18220ea-128d-4595-b041-8dc039eac9b1" />
 
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
+miracles do happen
 
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
+<img width="540" height="205" alt="image" src="https://github.com/user-attachments/assets/794db0ff-95ba-4fd0-af96-c477f9b2258f" />
 
-### Browser support
+LIVE
 
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+<img width="540" height="95" alt="image" src="https://github.com/user-attachments/assets/69b99f4f-a913-483c-8bb5-f33b93e8727c" />
 
-### Download
+miracles do happen, but you've got to make them!
 
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
+<img width="540" height="70" alt="image" src="https://github.com/user-attachments/assets/ad9d9ea6-70f7-4c0f-a471-8f051787145d" />
 
-Thanks!
+men will sing till the end of days. we'll all sing, we'll all go on
+
+<img width="540" height="393" alt="image" src="https://github.com/user-attachments/assets/9f3e322a-f527-4bda-83e7-0adb51063629" />
+
+keep going
